@@ -3,7 +3,7 @@
 ## Como Excluir Seus Dados
 
 ### Passo 1: Identificação
-Envie um email para ftmoura@gmail.com com as seguintes informações:
+Envie um email para contato@fluxcode.dev.br com as seguintes informações:
 - Nome completo
 - Email cadastrado
 - ID de usuário (se souber)
@@ -23,6 +23,6 @@ Após confirmação, seus dados serão completamente removidos de nossos sistema
 A exclusão completa será processada em até 30 dias após a solicitação.
 
 ## Contato para Exclusão
-Email: ftmoura@gmail.com
+Email: contato@fluxcode.dev.br
 
 *Última atualização: 11/12/2024*
